@@ -15,7 +15,7 @@ spec:
       hostNetwork: true
       containers:
       - name: iot
-        image: ajpatel44/ajpatel44_modification
+        image: ajpatel44/new_modification
         ports:
            - containerPort: 9005
              hostPort: 9005
